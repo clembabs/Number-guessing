@@ -21,6 +21,7 @@ function guess(max, min, username) {
     guess(max,min,username);
   } else {
     alert(username + ', you missed it');
+      alert('Game Over');
   }
   }
 }
